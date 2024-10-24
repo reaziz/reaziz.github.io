@@ -14,7 +14,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-My name is Renee Aziz, and I am a current senior at Notre Dame majoring in Business Analytics and minoring in Theology. 
+My name is Renee Aziz, and I am a current senior at Notre Dame majoring in Business Analytics and minoring in Theology.
 
 I am the recipient of a $100k merit scholarship at the University of Notre Dame and have had two international internships. My previous internship was at Deloitte, where I worked in Financial Risk and Advisory in the Bay Area.
 
