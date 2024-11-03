@@ -12,7 +12,3 @@ Our final project on Elite College Admissions consists of two main files: a deta
 The HTML file showcases our code and visual outputs, allowing a transparent view of our methods and findings. Together, these files offer both a theoretical and practical look at our research, helping educators and universities better understand application trends and potential outreach improvements.
 
 <object data="{{ '/assets/pdf/Elite College Admissions Final Report.pdf' | relative_url }}" width="1000" height="1000" type="application/pdf"></object>
-
-<iframe src="{{ '/assets/html/MachineLearningFinalProject.html' | relative_url }}" width="1000" height="1000" style="border:none;"></iframe>
-
-{% endraw %}
